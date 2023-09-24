@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Blog.cs \
+obj\Debug\net6.0\Protos/BlogGrpc.cs: Protos/blog.proto
